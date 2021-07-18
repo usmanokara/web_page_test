@@ -1,0 +1,15 @@
+<!-- open graph description -->
+<meta property="og:title" content="Bubeneck Odontologia">
+<meta property="og:description" content="A sua primeira opção em Odontolgia!">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.bubeneckodontologia.com.br/">;
+<meta property="og:image" content="http://www.bubeneckodontologia.com.br/assets/images/logocerto.jpg">;
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="800" />
+<meta property="fb:app_id" content="353553082180500">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bubeneck Odontologia">
+<meta name="twitter:description" content="A sua primeira opção em Odontolgia!">
+<meta name="twitter:image" content="http://www.bubeneckodontologia.com.br/assets/images/logocerto.jpg">;
+<!-- open graph END -->
